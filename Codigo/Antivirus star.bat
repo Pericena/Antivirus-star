@@ -37,7 +37,6 @@ echo                 DIA %date% HORA %time%
 echo ==========================================================================
 echo.
 echo.
-
 set /p unit= INGRESE LA LETRA DE LA UNIDAD USB A DESIFECTAR.
 
 cd "C:\Users\Administrador\Desktop\proyecto\bat\Antivirus"		
@@ -47,7 +46,6 @@ echo.   ................Antivirus star 2.0 ..............................>>Antiv
 echo. ===================================================================>>Antivirus_Star.txt
 
 
-echo.LA UNIDAD "%unit%"FUE DESINFECTADA EL DIA: %date% A LAS HORAS :%time% >>Antivirus_Star.txt
 echo.LA UNIDAD "%unit%"FUE DESINFECTADA EL DIA: %date% A LAS HORAS :%time% >>Antivirus_Star.txt
 echo.LA UNIDAD "%unit%"FUE DESINFECTADA EL DIA: %date% A LAS HORAS :%time% >>Antivirus_Star.txt
 echo.LA UNIDAD "%unit%"FUE DESINFECTADA EL DIA: %date% A LAS HORAS :%time% >>Antivirus_Star.txt
